@@ -1,0 +1,38 @@
+/*  #section-two */
+.prev-post {
+    width: 50%;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    height: 360px;
+    height: 27vmax;
+
+}
+
+.prev-post:nth-child(1) {
+    height: 720px;
+    height: 54vmax;
+    float: left;
+}
+
+.prev-post:nth-child(2) {
+    float: right;
+}
+
+.prev-post:nth-child(3) {
+    height: 720px;
+    height: 54vmax;
+    float: right;
+}
+
+.prev-post:nth-child(4) {
+    float: right;
+}
+
+.prev-post:nth-child(5) {
+    float: left;
+}
+
+.prev-post:nth-child(6) {
+    float: right;
+}

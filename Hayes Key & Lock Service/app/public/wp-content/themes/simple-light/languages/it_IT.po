@@ -1,0 +1,446 @@
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: simple_light 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2020-07-22 19:18+0200\n"
+"PO-Revision-Date: 2020-07-22 19:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#: 404.php:16
+msgid "Sorry, that page doesn't exist"
+msgstr "Siamo spiacenti, quella pagina non esiste"
+
+#: archive.php:58 search.php:46
+msgid "PREV"
+msgstr "Precedente"
+
+#: archive.php:62 search.php:50
+msgid "NEXT"
+msgstr "Il prossimo"
+
+#: classes/class-simple_light-widget-smm.php:9
+msgid "add fontawesome icons to your site"
+msgstr "aggiungi icone «fontawesome» al tuo sito"
+
+#: classes/class-simple_light-widget-smm.php:18
+msgid "Link item details"
+msgstr "Dettagli diapositiva"
+
+#: classes/class-simple_light-widget-smm.php:20
+msgid "Fontawesome icon class"
+msgstr "Classe icona Fontawesome"
+
+#: classes/class-simple_light-widget-smm.php:24
+msgid "URL"
+msgstr "URL"
+
+#: classes/class-simple_light-widget-smm.php:28
+msgid "Icon color (use HEX format)"
+msgstr "Colore icona (usa il formato HEX)"
+
+#: comments.php:44
+msgid "One thought on "
+msgstr "Un pensiero su "
+
+#: comments.php:52
+msgid " thought on "
+msgstr " pensato su "
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: front-page.php:84 index.php:84 template-parts/content.php:63
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: front-page.php:164 index.php:164
+msgid "Latest news"
+msgstr "Ultime notizie"
+
+#: functions.php:52 functions.php:252
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:53 functions.php:261
+msgid "Footer menu"
+msgstr "Menu a piè di pagina"
+
+#: functions.php:111
+msgid "About This Site"
+msgstr "Di"
+
+#: functions.php:112
+msgid ""
+"This may be a good place to introduce yourself and your site or include some "
+"credits."
+msgstr ""
+"Potrebbe essere un buon posto per presentare te stesso e il tuo sito o "
+"includere alcuni crediti."
+
+#: functions.php:128 inc/breadcrumbs.php:9 inc/breadcrumbs.php:112
+msgid "Home"
+msgstr "Casa"
+
+#: functions.php:129
+msgid ""
+"Welcome to your site! This is your homepage, which is what most visitors "
+"will see when they come to your site for the first time."
+msgstr ""
+"Benvenuto nel tuo sito! Questa è la tua homepage, che è ciò che la maggior "
+"parte dei visitatori vedrà quando accederà al tuo sito per la prima volta."
+
+#: functions.php:133
+msgid "About"
+msgstr "Di"
+
+#: functions.php:134
+msgid ""
+"You might be an artist who would like to introduce yourself and your work "
+"here or maybe you&rsquo;re a business with a mission to describe."
+msgstr ""
+"Potresti essere un artista che vorrebbe presentare te stesso e il tuo lavoro "
+"qui o forse sei un business con una missione da descrivere."
+
+#: functions.php:138
+msgid "Contact"
+msgstr "Contatto"
+
+#: functions.php:139
+msgid ""
+"This is a page with some basic contact information, such as an address and "
+"phone number. You might also try a plugin to add a contact form."
+msgstr ""
+"Questa è una pagina con alcune informazioni di contatto di base, come un "
+"indirizzo e un numero di telefono. Puoi anche provare un plug-in per "
+"aggiungere un modulo di contatto."
+
+#: functions.php:143
+msgid "Blog"
+msgstr "Blog"
+
+#: functions.php:147
+msgid "News"
+msgstr "Notizia"
+
+#: functions.php:152
+msgid "A homepage section"
+msgstr "Una sezione di homepage"
+
+#: functions.php:153
+msgid ""
+"This is an example of a homepage section. Homepage sections can be any page "
+"other than the homepage itself, including the page that shows your latest "
+"blog posts."
+msgstr ""
+"Questo è un esempio di una sezione di homepage. Le sezioni della home page "
+"possono essere qualsiasi pagina diversa dalla home page stessa, inclusa la "
+"pagina che mostra i tuoi ultimi post sul blog."
+
+#: functions.php:159 functions.php:167 functions.php:175 functions.php:183
+#: functions.php:191 functions.php:199
+msgid "Short description"
+msgstr "Breve descrizione"
+
+#: functions.php:160 functions.php:168 functions.php:176 functions.php:184
+#: functions.php:192 functions.php:200
+msgid "This is the content of the post."
+msgstr "Questo è il contenuto del post."
+
+#: functions.php:376
+msgid "Sidebar on the page"
+msgstr "Barra laterale nella pagina"
+
+#: functions.php:385
+msgid "Footer widget area 1"
+msgstr "Area del widget piè di pagina 1"
+
+#: functions.php:390
+msgid "Footer widget area 2"
+msgstr "Area del widget piè di pagina 2"
+
+#: functions.php:395
+msgid "Social icons sidebar"
+msgstr "Barra delle icone sociali"
+
+#: functions.php:397
+msgid "Show you social links"
+msgstr "Mostra i tuoi social link"
+
+#: functions.php:402
+msgid "Nav menu widget area"
+msgstr "Area del widget del menu Nav"
+
+#: functions.php:470
+msgid "Updated: "
+msgstr "Aggiornato: "
+
+#: functions.php:503
+msgid "Skip to the content"
+msgstr "Vai al contenuto"
+
+#: inc/breadcrumbs.php:71
+msgid "Search results for"
+msgstr "Cerca risultati per"
+
+#: inc/breadcrumbs.php:98
+msgid "Public"
+msgstr "Pubblicato"
+
+#: inc/breadcrumbs.php:105
+msgid "page"
+msgstr "pagina"
+
+#: inc/customizer.php:32
+msgid "Theme options"
+msgstr "Opzioni del tema"
+
+#: inc/customizer.php:34
+msgid "Setup home page"
+msgstr "Home page di installazione"
+
+#: inc/customizer.php:39
+msgid "Slider options"
+msgstr "Opzioni del dispositivo di scorrimento"
+
+#: inc/customizer.php:41
+msgid "Setup slider"
+msgstr "Elimina diapositiva"
+
+#: inc/customizer.php:170
+msgid "Tag for slider"
+msgstr "Posto per il cursore"
+
+#: inc/customizer.php:186
+msgid "Sort by"
+msgstr "Ordina per"
+
+#: inc/customizer.php:191
+msgid "date"
+msgstr "Aggiornato:"
+
+#: inc/customizer.php:192
+msgid "name"
+msgstr "nome"
+
+#: inc/customizer.php:193
+msgid "id"
+msgstr "id"
+
+#: inc/customizer.php:207
+msgid "Sort Ascending"
+msgstr "Ordine crescente"
+
+#: inc/customizer.php:226
+msgid "Blur effect"
+msgstr "Effetto sfocatura"
+
+#: inc/customizer.php:241
+msgid "link text"
+msgstr "Scorri il testo"
+
+#: inc/customizer.php:256
+msgid "Disable slider"
+msgstr "Elimina diapositiva"
+
+#: inc/customizer.php:273
+msgid "Category for First block"
+msgstr "Categoria per il primo blocco"
+
+#: inc/customizer.php:289
+msgid "Block display type"
+msgstr "Stile di visualizzazione del contenuto"
+
+#: inc/customizer.php:294
+msgid "Standart"
+msgstr "Standart"
+
+#: inc/customizer.php:295
+msgid "Same height (small)"
+msgstr "Stessa altezza (piccola)"
+
+#: inc/customizer.php:296
+msgid "Same height (big)"
+msgstr "Stessa altezza (grande)"
+
+#: inc/customizer.php:309
+msgid "Number of posts in the First block"
+msgstr "Numero di post nel primo blocco"
+
+#: inc/customizer.php:325
+msgid "Category for Second block"
+msgstr "Categoria per il secondo blocco"
+
+#: inc/customizer.php:341
+msgid "Number of posts in the Second block"
+msgstr "Numero di post nel secondo blocco"
+
+#: inc/customizer.php:357
+msgid "The title of the Third block"
+msgstr "Il titolo del terzo blocco"
+
+#: inc/customizer.php:372
+msgid "Text under the title of the Third block"
+msgstr "Testo sotto il titolo del terzo blocco"
+
+#: inc/customizer.php:387
+msgid "Category for Third block"
+msgstr "Categoria per il terzo blocco"
+
+#: inc/customizer.php:403
+msgid "Number of posts in the Third block"
+msgstr "Numero di post nel terzo blocco"
+
+#: inc/customizer.php:418
+msgid "Default post attachment"
+msgstr "Post allegato predefinito"
+
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Pubblicato in %1$s"
+
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Taggato %1$s"
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Lascia un commento  su  %s"
+
+#: inc/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modificare %s"
+
+#: template-parts/content-none.php:2
+msgid "No content to display"
+msgstr "Nessun contenuto da visualizzare"
+
+#: template-parts/content.php:20
+msgid "Post tags"
+msgstr "Pubblica tag"
+
+#: template-parts/content.php:44
+msgid "Edit"
+msgstr "Modificare"
+
+#: template-parts/content.php:84
+msgid "Next Post -"
+msgstr "Post successivo -"
+
+#: template-parts/content.php:85
+msgid "Next post:"
+msgstr "Articolo successivo:"
+
+#: template-parts/content.php:87
+msgid "Previous Post -"
+msgstr "Messaggio precedente -"
+
+#: template-parts/content.php:88
+msgid "Previous post:"
+msgstr "Messaggio precedente:"
+
+#: template-parts/slider.php:69
+msgid "Permalink to "
+msgstr "Collegamento permanente a "
+
+#~ msgid "Hi! My name is Alex and I am the author of this theme."
+#~ msgstr "Ciao! Mi chiamo Alex e sono l’autore di questo tema."
+
+#~ msgid ""
+#~ "I want to thank you for the installation. I hope the theme will meet your "
+#~ "expectations! Have questions? Contact me)!"
+#~ msgstr ""
+#~ "Voglio ringraziarti per l’installazione. Spero che il tema soddisfi le "
+#~ "tue aspettative! Hai domande? Contattami)!"
+
+#~ msgid "My contacts are on the \"Dashboard\" page of your admin panel."
+#~ msgstr ""
+#~ "I miei contatti si trovano nella pagina «Dashboard» del pannello di "
+#~ "amministrazione."
+
+#~ msgid "Theme author"
+#~ msgstr "Opzioni del tema"
+
+#~ msgid "site navigation"
+#~ msgstr "navigazione del sito"
+
+#~ msgid "Search"
+#~ msgstr "Ricerca"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Your comment"
+#~ msgstr "Il tuo commento"
+
+#~ msgid "Create your first slide"
+#~ msgstr "Crea la tua prima diapositiva"
+
+#~ msgid "Permalink to edit slider"
+#~ msgstr "Permalink per modificare il dispositivo di scorrimento"
+
+#~ msgid "click me"
+#~ msgstr "cliccami"
+
+#~ msgid "Permalink to publications "
+#~ msgstr "Collegamento permanente alle pubblicazioni "
+
+#~ msgid "Slider setup"
+#~ msgstr "Impostazione del dispositivo di scorrimento"
+
+#~ msgid ""
+#~ "Sorry, but you cannot use a file of this format.<strong> Only jpg, jpeg, "
+#~ "png, gif.</strong>"
+#~ msgstr ""
+#~ "Siamo spiacenti, ma non puoi utilizzare un file di questo formato.  Solo "
+#~ "jpg, jpeg, png, gif"
+
+#~ msgid "Slide title"
+#~ msgstr "Titolo della diapositiva"
+
+#~ msgid "Slide image"
+#~ msgstr "Immagine diapositiva"
+
+#~ msgid "Button text"
+#~ msgstr "Pulsante di testo"
+
+#~ msgid "Button link"
+#~ msgstr "Collegamento pulsante"
+
+#~ msgid "Slide position"
+#~ msgstr "Posizione di scorrimento"
+
+#~ msgid "add slide"
+#~ msgstr "aggiungi diapositiva"
+
+#~ msgid "Slider Settings"
+#~ msgstr "Impostazioni del dispositivo di scorrimento"
+
+#~ msgid "button text"
+#~ msgstr "pulsante di testo"

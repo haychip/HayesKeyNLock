@@ -1,0 +1,93 @@
+-----------------------------------------------
+-----------------------------------------------
+ CHANGELOG
+-----------------------------------------------
+-----------------------------------------------
+
+Version: 1.1.0 (2009-Jun-08)
+		- Theme released
+		- Sidebar widgets
+
+Version: 1.1.1 (2009-Jun-08)
+		- Gravatar
+
+Version: 1.2.0 (2009-Jun-12)
+		- Fixed coding for paragraphs
+		- Image-based search bar
+
+Version: 1.3 (2009-Aug-03)
+		- Fixed bug in Searchbar widget
+		- Fixed bug in Sidebar post counts
+
+Version: 2.5 (2010-Feb-06)
+		- Navigation bar for parent pages
+		- Smooth page scrolling (Credit: http://kryogenix.org)
+		- Added last modified date on pages
+		- GPL license
+
+Version: 3.0 (2011-May-29)
+		- Re-designed
+		- Full-width page template
+		- Threaded/paginated comments
+		- Post pagination
+		- Comments reply function
+		- Multi-level drop down menu
+
+Version: 3.5 (2011-June-5)
+		- Fixed bug in comments
+		- Integrated with wp_enqueue_script
+
+Version: 3.6 (2011-June-16)
+		- Highlighted author comments
+		- Prefixed variables in function.php
+
+Version: 3.7 (2011-June-30)
+		- Fixed search form and search query
+		- Added custom menu
+		- Removed undefined variables
+		- Resized oversized images on posts
+
+Version: 3.8 (2011-July-15)
+		- Fixed custom menu
+		- Prefixed registered script name
+		- Stylized orderd and unordered list on comments page
+
+Version: 3.9 (2011-July-15)
+		- Prefixed load_scripts & register_menus
+
+Version: 3.9.1 (2011-July-24)
+		- Added default menu when custom menu is not used
+
+Version: 4.0 (2013-March-13)
+		- Social icons
+		- Fading "Go to top" link
+		- Theme option page
+
+Version: 4.1 (2013-March-15)
+		- Fixed social icons
+		- Fixed title and menu
+
+Version: 4.2 (2013-March-16)
+		- Image navigation links
+		- Enqueue stylesheets
+		- Copyright & license notice
+
+Version: 4.3 (2013-March-29)
+		- Social icons
+		- Fixed widgets
+
+Version: 5.2 (2016–July-09)
+		- Updated theme option page
+		- Added tagline
+
+Version: 5.3 (2022–July-01)
+		- Added 7 social icons
+		- Added breadcrumbs
+		- Added numeric pagination
+
+Version: 6.0 (2022–May-24)
+		- Added 7 social icons (Total 12 icons)
+		- Pingbacks and trackbacks supported
+
+Version: 6.1 (2022–May-24)
+		- Fixed links
